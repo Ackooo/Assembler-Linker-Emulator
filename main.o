@@ -1,0 +1,50 @@
+
+my_code
+a06000fefea000000400100fa000000000b00612a000000100b0061230f0000000b000040000a000000100b00612a000000100b0061230f7050000b000040000a000000800b00612a000000b00b00612a000000200a010000000700130f002b000040000a000000200b00612a000000200b00612a00000040030f0030000b000040000a000000500b00612a000001900b00612a000000600a0100000007001a0000230f001b000040000a000040000a010040000a020040000a030040000a040040000a050040000a06004000000
+my_data
+00000000000000000000000000000000000000000000
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+      mathAdd          0          0   globalna          1         -1          e
+      mathSub          0          0   globalna          2         -1          e
+      mathMul          0          0   globalna          3         -1          e
+      mathDiv          0          0   globalna          4         -1          e
+     my_start         13          0   globalna          5         -1          g
+       value0         15          0   globalna          6         -1          g
+       value1         15          2   globalna          7         -1          g
+       value2         15          4   globalna          8         -1          g
+       value3         15          6   globalna          9         -1          g
+       value4         15          8   globalna         10         -1          g
+       value5         15         10   globalna         11         -1          g
+       value6         15         12   globalna         12         -1          g
+      my_code         13          0    lokalna         13        206          s
+ destinations         15         14    lokalna         14         -1          l
+      my_data         15          0    lokalna         15         22          s
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+         13         31   R_386_32          1          e
+         13         57 R_386_PC32          1          e
+         15         14   R_386_32          1          e
+         15         16   R_386_32          2          e
+         15         18   R_386_32          3          e
+         15         20   R_386_32          4          e
+         13        173   R_386_32          6          g
+         13         36   R_386_32          7          g
+         13        178   R_386_32          7          g
+         13         62   R_386_32          8          g
+         13        183   R_386_32          8          g
+         13         98   R_386_32          9          g
+         13        188   R_386_32          9          g
+         13        129   R_386_32         10          g
+         13        193   R_386_32         10          g
+         13        168   R_386_32         11          g
+         13        198   R_386_32         11          g
+         13        203   R_386_32         12          g
+         13         88   R_386_32         14          l
+         13        124   R_386_32         14          l
+         13        155   R_386_32         14          l
+

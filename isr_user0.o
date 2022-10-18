@@ -1,0 +1,16 @@
+
+isr
+b00612b01612a00000cdaba010000000b00102a01642a0064220
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+       value0          0          0   globalna          1         -1          e
+          isr          2          0    lokalna          2         26          s
+    isr_user0          2          0   globalna          3         -1          g
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+          2         14   R_386_32          1          e
+

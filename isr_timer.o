@@ -1,0 +1,14 @@
+
+isr
+20
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+          isr          1          0    lokalna          1          1          s
+    isr_timer          1          0   globalna          2         -1          g
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+

@@ -1,0 +1,16 @@
+
+isr
+50f0000000
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+     my_start          0          0   globalna          1         -1          e
+          isr          2          0    lokalna          2          5          s
+    isr_reset          2          0   globalna          3         -1          g
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+          2          3   R_386_32          1          e
+

@@ -1,0 +1,4 @@
+﻿  emulator.cpp
+E:\faks\3.ss\proj_22_sept\proj_sept\emulator.cpp(4,29): warning C4129: '.': unrecognized character escape sequence
+E:\faks\3.ss\proj_22_sept\proj_sept\emulator.cpp(1005): warning C4715: 'Emulator::register_value': not all control paths return a value
+  proj_sept.vcxproj -> E:\faks\3.ss\proj_22_sept\proj_sept\Debug\proj_sept.exe

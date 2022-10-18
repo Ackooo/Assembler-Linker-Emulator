@@ -1,0 +1,21 @@
+
+ivt
+00000000000000000000000000000000
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+    isr_reset          0          0   globalna          1         -1          e
+    isr_timer          0          0   globalna          2         -1          e
+ isr_terminal          0          0   globalna          3         -1          e
+    isr_user0          0          0   globalna          4         -1          e
+          ivt          5          0    lokalna          5         16          s
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+          5          0   R_386_32          1          e
+          5          4   R_386_32          2          e
+          5          6   R_386_32          3          e
+          5          8   R_386_32          4          e
+

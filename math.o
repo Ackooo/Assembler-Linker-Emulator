@@ -1,0 +1,17 @@
+
+math
+b01612a006030400a0160306007001a0164240b01612a006030400a0160306007101a0164240b01612a006030400a0160306007201a0164240b01612a006030400a0160306007301a0164240
+
+tabela simbola
+       labela    sekcija      ofset  globalna? redni broj   velicina        tip
+          UND          0          0    lokalna          0          0          u
+      mathAdd          5          0   globalna          1         -1          g
+      mathSub          5         19   globalna          2         -1          g
+      mathMul          5         38   globalna          3         -1          g
+      mathDiv          5         57   globalna          4         -1          g
+         math          5          0    lokalna          5         76          s
+
+
+relokaciona tabela
+    sekcija      ofset        pc? referenca na TS        tip
+
